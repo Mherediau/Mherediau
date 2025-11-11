@@ -54,7 +54,7 @@ DevOps:       Docker, Kubernetes, Git
 
 - 📧 Email: mherediau@gmail.com
 - � Phone: +51 968 118 025
-- �💼 LinkedIn: [Manuel Heredia Utrilla](https://www.linkedin.com/in/manuel-heredia-utrilla-a502611b7/)
+- �💼 LinkedIn: [Manuel Heredia Utrilla](https://www.linkedin.com/in/manuel-heredia-a502611b7/)
 - 🌐 Location: Peru
 
 ---
