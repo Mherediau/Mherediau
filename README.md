@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](banner_mherediau.jpeg)
 
 # 👋 Hi, I'm Manuel Heredia Utrilla
 
