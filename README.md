@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Manuel Heredia Utrilla
 
-**Software Engineer** with 9+ years of experience building enterprise systems and AI-powered applications.
+**Software Engineer** | 9+ Years Experience | Full-Stack Developer
+
+Building enterprise systems and AI-powered applications from legacy mainframes to cutting-edge AI.
 
 ## 🚀 Tech Stack
 
