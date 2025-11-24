@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # 👋 Hi, I'm Manuel Heredia Utrilla
 
 **Software Engineer** | 9+ Years Experience | Full-Stack Developer
@@ -46,13 +48,14 @@ DevOps:       Docker, Kubernetes, Git
 
 ## 📊 GitHub Stats
 
-![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mherediau&show_icons=true&theme=dark)
+![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mherediau&show_icons=true&theme=dark&include_all_commits=true&hide=contribs)
 
 ## 📫 Contact
 
 - 📧 Email: mherediau@gmail.com
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/manuel-heredia)
-- 🌐 Location: Mexico
+- � Phone: +51 968 118 025
+- �💼 LinkedIn: [Manuel Heredia Utrilla](https://www.linkedin.com/in/manuel-heredia-utrilla-a502611b7/)
+- 🌐 Location: Peru
 
 ---
 
